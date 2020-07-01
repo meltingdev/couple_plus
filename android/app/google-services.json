@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "492470960559",
+    "firebase_url": "https://coupley-3f183.firebaseio.com",
+    "project_id": "coupley-3f183",
+    "storage_bucket": "coupley-3f183.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492470960559:android:0ad0bef5eec740eba82f5a",
+        "android_client_info": {
+          "package_name": "ch.wappli.coupleplus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492470960559-s0l43oni4jl4fh8rv1t5r46purggbd05.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ch.wappli.coupleplus",
+            "certificate_hash": "45608e3a8a30182dac77c2442a213b5190ca50da"
+          }
+        },
+        {
+          "client_id": "492470960559-a6ltb9m57nvif00p6iopflqvt67b9v9u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdEGFEezrD825yqh10Khvk2DHJ71gqdok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492470960559-a6ltb9m57nvif00p6iopflqvt67b9v9u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "492470960559-ev64pf49vde0tu3ondv9hc75p6fmf32r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ch.wappli.coupleplus"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492470960559:android:c8ef1bae4fae17f7a82f5a",
+        "android_client_info": {
+          "package_name": "melting.coupley"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492470960559-6ur6btqlt7ebd6ftdqspntj75hv2d83l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "melting.coupley",
+            "certificate_hash": "45608e3a8a30182dac77c2442a213b5190ca50da"
+          }
+        },
+        {
+          "client_id": "492470960559-a6ltb9m57nvif00p6iopflqvt67b9v9u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdEGFEezrD825yqh10Khvk2DHJ71gqdok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492470960559-a6ltb9m57nvif00p6iopflqvt67b9v9u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "492470960559-ev64pf49vde0tu3ondv9hc75p6fmf32r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ch.wappli.coupleplus"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
